@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0073-set-matrix-zeroes) |
@@ -20,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
@@ -28,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
