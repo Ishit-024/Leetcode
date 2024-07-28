@@ -19,7 +19,7 @@ public:
         mp[val]--;
         auto it = find(values.begin(), values.end(), val);
         if (it != values.end()) {
-            *it = values.back();
+            swap(*it,values[values.size()-1]);
             values.pop_back();
         }
         return true;
