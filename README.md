@@ -93,6 +93,7 @@
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0680-valid-palindrome-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
