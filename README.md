@@ -31,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
@@ -89,6 +91,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0680-valid-palindrome-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## String Matching
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
