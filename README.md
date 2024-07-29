@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
@@ -122,5 +123,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
