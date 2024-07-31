@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
