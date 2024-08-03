@@ -143,4 +143,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
