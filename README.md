@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
