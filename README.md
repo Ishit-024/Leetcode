@@ -123,6 +123,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
