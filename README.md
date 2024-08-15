@@ -34,6 +34,7 @@
 | [0125-valid-palindrome](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
@@ -48,6 +49,7 @@
 | [0015-3sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -73,6 +75,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -158,6 +161,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
@@ -170,4 +174,8 @@
 | [0203-remove-linked-list-elements](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
