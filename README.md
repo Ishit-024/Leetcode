@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [0002-add-two-numbers](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
