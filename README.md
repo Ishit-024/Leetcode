@@ -149,6 +149,7 @@
 | [0020-valid-parentheses](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Enumeration
@@ -191,6 +192,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,9 +203,11 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
