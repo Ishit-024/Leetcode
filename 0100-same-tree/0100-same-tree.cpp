@@ -34,38 +34,37 @@ public:
         }
         return ans;
     }
-    // vector<int> levelOrder(TreeNode* root){
-    //     vector<int>v;
-    //     if(root==NULL){
-    //         return v;
-    //     }
-    //     queue<TreeNode*> q;
-    //     q.push(root);
-    //     while(!q.empty()){
-    //         TreeNode*top=q.front();
-    //         q.pop();
-    //         v.push_back(top->val);
-    //         if(top->left!=NULL){
-    //             q.push(top->left);
-    //         }
-    //         if(top->left==NULL){
-    //             q.push(NULL);
-    //         }
-    //         if(top->right!=NULL){
-    //             q.push(top->right);
-    //         }
-    //         if(top->right==NULL){
-    //             q.push(NULL);
-    //         }
-    //     }
-    //     for(int i:v){
-    //         cout << i << endl;
-    //     }
-    //     return v;
-    // }
+    vector<int> levelOrder(TreeNode* root){
+        vector<int>v;
+        if(root==NULL){
+            return v;
+        }
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode*top=q.front();
+            q.pop();
+            v.push_back(top->val);
+            if(top->left!=NULL){
+                q.push(top->left);
+            }
+            if(top->left==NULL){
+                v.push_back(top->val);
+            }
+            if(top->right!=NULL){
+                q.push(top->right);
+            }
+            if(top->right==NULL){
+                v.push_back(100);
+            }
+        }
+       return v;
+    }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-       vector<int>v=preorder(p);
-       vector<int>z=preorder(q);
+    //    vector<int>v=preorder(p);
+    //    vector<int>z=preorder(q);
+       vector<int>v=levelOrder(p);
+       vector<int>z=levelOrder(q);
        if(v.size()!=z.size()){
         return false;
        }
