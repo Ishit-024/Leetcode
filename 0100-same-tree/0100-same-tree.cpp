@@ -61,18 +61,15 @@ public:
        return v;
     }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-    //    vector<int>v=preorder(p);
-    //    vector<int>z=preorder(q);
-       vector<int>v=levelOrder(p);
-       vector<int>z=levelOrder(q);
-       if(v.size()!=z.size()){
-        return false;
-       }
-       for(int i=0;i<v.size();i++){
-        if(v[i]!=z[i]){
-            return false;
-        }
-       }
-       return true;
+    if(p==NULL && q==NULL){
+        return true;
     }
+    if(p==NULL && q!=NULL || q==NULL && p!=NULL){
+        return false;
+    }
+    if(p->val!=q->val){
+        return false;
+    }
+    return (isSameTree(p->left,q->left) && isSameTree(p->right,q->right)); 
+}
 };
