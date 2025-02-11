@@ -22,6 +22,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1603-running-sum-of-1d-array](https://github.com/Ishit-024/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1603-running-sum-of-1d-array](https://github.com/Ishit-024/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
