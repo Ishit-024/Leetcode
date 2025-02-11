@@ -23,6 +23,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Ishit-024/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ishit-024/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [1013-fibonacci-number](https://github.com/Ishit-024/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ishit-024/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Design
 |  |
 | ------- |
