@@ -88,6 +88,7 @@
 | [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ishit-024/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1013-fibonacci-number](https://github.com/Ishit-024/Leetcode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0002-add-two-numbers](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1013-fibonacci-number](https://github.com/Ishit-024/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
@@ -183,6 +185,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Ishit-024/Leetcode/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -235,4 +238,8 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ishit-024/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
