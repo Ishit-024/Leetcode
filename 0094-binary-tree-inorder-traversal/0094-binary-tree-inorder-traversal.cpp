@@ -14,7 +14,7 @@ public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> v;
         stack<TreeNode*> s;
-        TreeNode* curr = root;
+       TreeNode* curr = root;
         while (curr != nullptr || !s.empty()) {
             while (curr != nullptr) {
                 s.push(curr);
