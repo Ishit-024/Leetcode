@@ -53,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +234,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +247,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishit-024/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
