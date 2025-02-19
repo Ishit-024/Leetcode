@@ -222,6 +222,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Ishit-024/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Ishit-024/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
