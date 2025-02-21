@@ -117,6 +117,7 @@
 | [0020-valid-parentheses](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
@@ -146,6 +147,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
@@ -219,6 +221,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishit-024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -236,6 +239,7 @@
 | [0112-path-sum](https://github.com/Ishit-024/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ishit-024/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -261,6 +265,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishit-024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -285,6 +290,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishit-024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ishit-024/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
