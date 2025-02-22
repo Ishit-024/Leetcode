@@ -64,29 +64,27 @@ public:
         int floor=flooris(root,val);
         TreeNode* node=root;
             while(node!=NULL){
-            if(node->val==ceil && ceil!=-1){
-                TreeNode* n=node->left;
-                TreeNode* x=new TreeNode(val);
-                node->left=x;
-                x->left=n;
-                break;
-            }
-            else if(ceil==-1 && floor!=-1){
-                if(node->val==floor){
-                    TreeNode* x=new TreeNode(val);
-                    node->right=x;
-                    x->left=NULL;
-                    x->right=NULL;
+            if(node->val>=val){
+                if(node->left!=NULL){
+                node=node->left;
+                }
+                else{
+                    TreeNode*x=new TreeNode(val);
+                    node->left=x;
                     break;
                 }
             }
-            if(node->val>val){
-                node=node->left;
-            }
-            if(node->val<val){
-                node=node->right;
+            else{
+                if(node->right!=NULL){
+                    node=node->right;
+                }
+                else{
+                    TreeNode*x=new TreeNode(val);
+                    node->right=x;
+                    break;
+                }
             }
             }
             return root;
-            }
+}
 };
