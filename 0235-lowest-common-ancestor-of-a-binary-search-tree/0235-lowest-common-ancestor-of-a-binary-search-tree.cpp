@@ -18,59 +18,30 @@
  */
 class Solution {
 public:
-    TreeNode* levelOrder(TreeNode* root,int x){
-        queue<TreeNode*>q;
-        if(root!=NULL){
-            q.push(root);
-        }
-        while(!q.empty()){
-            TreeNode* top=q.front();
-            q.pop();
-            if(top->val==x){
-                return top;
-                break; 
-            }
-            if(top->left!=NULL){
-                q.push(top->left);
-            }
-            if(top->right!=NULL){
-                q.push(top->right);
-            }
-        }
-        return root;
+TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+    if(root==NULL){
+        return NULL;
     }
-    bool traverse(TreeNode *root,vector<int>&a,int t){
-	if(root==NULL){
-		return false;
-	}
-	a.push_back(root->val);
-	if(root->val==t){
-		return true;
-	}
-	bool x=traverse(root->left,a,t);
-	bool y=traverse(root->right,a,t);
-	if(x || y){
-		return true;
-	}
-	else{
-		a.pop_back();
-		return false;
-	}
+    TreeNode*x;
+    while(root!=NULL){
+        if(p->val>root->val && q->val <root->val || p->val<root->val && q->val > root->val){
+            return root;
+        }
+        else if(p->val<root->val && q->val < root->val){
+            root=root->left;
+        }
+        else if(p->val>root->val && q->val>root->val){
+            root=root->right;
+        }
+        else if(p->val==root->val){
+            x=root;
+            break;
+        }
+        else if(q->val==root->val){
+            x=root;
+            break;
+        }
+    }
+    return x;
 }
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-    vector<int>a;
-    vector<int>b;
-	traverse(root,a,p->val);
-    traverse(root,b,q->val);
-    int c=INT_MIN;
-    for(int num1:a){
-        for(int num2:b){
-            if(num1==num2){
-                c=num1;
-                }
-            }
-        }
-    TreeNode* t=levelOrder(root,c);
-    return t;
-    }
 };
