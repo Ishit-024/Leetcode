@@ -227,6 +227,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -273,6 +274,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -313,4 +315,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ishit-024/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ishit-024/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
