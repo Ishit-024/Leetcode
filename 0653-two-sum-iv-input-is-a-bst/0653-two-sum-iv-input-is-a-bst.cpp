@@ -9,41 +9,64 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+class BST{
+    stack<TreeNode*>st1;
+    stack<TreeNode*>st2;
+    public:
+    BST(TreeNode* root){
+        fill1(root);
+        fill2(root);
+    }
+    int next(){
+        TreeNode* x=st1.top();
+        st1.pop();
+        if(x->right!=NULL){
+            fill1(x->right);
+        }
+        return x->val;
+    }
+    int prev(){
+        TreeNode* y=st2.top();
+        st2.pop();
+        if(y->left!=NULL){
+            fill2(y->left);
+        }
+        return y->val;
+    }
+    private:
+    void fill1(TreeNode* root){
+        while(root!=NULL){
+            st1.push(root);
+            root=root->left;
+        }
+    }
+    void fill2(TreeNode* root){
+        while(root!=NULL){
+            st2.push(root);
+            root=root->right;
+        }
+    }
+};
 class Solution {
 public:
-    vector<int> inorder(TreeNode* root) {
-        vector<int> v;
-        stack<TreeNode*> s;
-        if(root==NULL){
-            return v;
-        }
-       TreeNode* curr = root;
-        while ( !s.empty() || curr!=NULL) {
-            while (curr != nullptr) {
-                s.push(curr);
-                curr = curr->left;
-            }
-            // Process the top node
-            curr = s.top();
-            s.pop();
-            v.push_back(curr->val);
-
-            // Move to the right subtree
-            curr = curr->right;
-        }
-        return v;
-    }
     bool findTarget(TreeNode* root, int k) {
-        TreeNode* node=root;
-        vector<int>v=inorder(root);
-        for(int i=0;i<v.size();i++){
-            for(int j=i+1;j<v.size();j++){
-                if(v[i]+v[j]==k){
-                    return true;
-                }
-            }
+        BST* b=new BST(root);
+        if(root==NULL){
+            return false;
+        }
+        int x=b->next();
+        int y=b->prev();
+        while(x<y){
+        if(x+y==k){
+            return true;
+        }
+        else if(x+y<k){
+            x=b->next();
+        }
+        else{
+            y=b->prev();
+        }
         }
         return false;
-
-        }
+    }
 };
