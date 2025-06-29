@@ -18,6 +18,7 @@
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishit-024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishit-024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishit-024/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -55,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishit-024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -64,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishit-024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +82,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ishit-024/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishit-024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Bit Manipulation
 |  |
