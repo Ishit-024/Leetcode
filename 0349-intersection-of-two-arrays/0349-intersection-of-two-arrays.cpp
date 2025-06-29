@@ -15,17 +15,12 @@ public:
             j++;
         }
         else{
-            v.push_back(nums1[i]);
-            i++;
-            j++;
+            if (ans.empty() || ans.back() != nums1[i]) {
+                    ans.push_back(nums1[i]);
+                }
+                i++;
+                j++;
        }
-       }
-       set<int>s;
-       for(auto i:v){
-        s.insert(i);
-       }
-       for(auto i:s){
-        ans.push_back(i);
        }
        return ans;
        }
