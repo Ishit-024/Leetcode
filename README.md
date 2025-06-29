@@ -22,6 +22,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1319-unique-number-of-occurrences](https://github.com/Ishit-024/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/Ishit-024/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ishit-024/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
@@ -71,6 +72,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ishit-024/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1319-unique-number-of-occurrences](https://github.com/Ishit-024/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
