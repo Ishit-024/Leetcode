@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishit-024/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Ishit-024/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishit-024/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Enumeration
 |  |
 | ------- |
