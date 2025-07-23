@@ -9,31 +9,26 @@ class Solution {
      }
 public:
     bool checkInclusion(string s1, string s2) {
-     vector<int>v1(26);
-     vector<int>v2(26);
+     vector<int>v1(26,0);
+     vector<int>v2(26,0);
      for(int i=0;i<s1.size();i++){
         v1[s1[i]-'a']++;
      }
-     int window_size=s1.size();
-     int i=0;
-     while(i<window_size && i<s2.size()){
-        int index=s2[i]-'a';
-        v2[index]++;
+     int w=s1.length();
+     int j=0;
+     for(j=0;j<s2.length();j++){
+        for(int k=j;k<j+w;k++){
+            if(k>=s2.length()){
+                return false;
+            }
+            v2[s2[k]-'a']++;
+        }
         if(equal(v1,v2)){
             return true;
         }
-        i++;
-     }
-     while(i<s2.size()){
-        int index=s2[i]-'a';
-        v2[index]++;
-        int index2=s2[i-window_size]-'a';
-        v2[index2]--;
-        if(equal(v1,v2)){
-            return true;
+            fill(v2.begin(), v2.end(), 0); 
+
         }
-        i++;
-     }
-        return false;
-     }
+     return false;
+    }
 };
