@@ -5,6 +5,5 @@ public:
             s.erase(s.begin()+s.find(part),s.begin()+s.find(part)+part.length());
         }
         return s;
-       
     }
 };
