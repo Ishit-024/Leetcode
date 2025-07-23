@@ -1,14 +1,12 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        std::string result;
-        for (char c : s) {
-            if (!result.empty() && result.back() == c) {
-                result.pop_back();
-            } else {
-                result.push_back(c);
+        for (int i = 0; i < (int)s.length() - 1; i++) {
+            if (s[i] == s[i + 1]) {
+                s.erase(i, 2);  // erase 2 characters starting at index i
+                i = max(-1, i - 2);  // step back to check for new duplicates
             }
         }
-        return result;
+        return s;
     }
 };
