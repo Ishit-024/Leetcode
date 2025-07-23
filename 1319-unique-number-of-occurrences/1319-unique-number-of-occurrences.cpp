@@ -10,18 +10,18 @@ public:
         return count1;
     }
     bool uniqueOccurrences(vector<int>& arr) {
-      vector<int>v={0};
-      std::sort(arr.begin(),arr.end());
-      int a=0;
-      for(int i=0;i<arr.size();i=i+a){
-        a=countx(arr,arr[i]);
-        v.push_back(a);
-      }
+      vector<int>ans;
       set<int>s;
-      for(auto i:v){
+      std::sort(arr.begin(),arr.end());
+      int count=0;
+      for(int i=0;i<arr.size();i+=count){
+        count=countx(arr,arr[i]);
+        ans.push_back(count);
+      }
+      for(auto i:ans){
         s.insert(i);
       }
-      if(s.size()==v.size()){
+      if(s.size()==ans.size()){
         return true;
       }
       return false;
