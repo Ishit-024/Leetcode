@@ -1,31 +1,37 @@
 class Solution {
 public:
-    int compress(vector<char>& chars) {
-        int n = chars.size();
-        int write = 0, i = 0;
-
-        while (i < n) {
-            char currentChar = chars[i];
-            int count = 0;
-
-            // Count the occurrences of the current character
-            while (i < n && chars[i] == currentChar) {
-                i++;
-                count++;
+    int counter(vector<char>& chars,int start){
+        int count1=1;
+        for(int i=start;i<chars.size()-1;i++){
+            if(chars[i]==chars[i+1]){
+                count1++;
             }
+            else{
+                break;
+            }
+        }
+        return count1;
+    }
 
-            // Write the character to the write position
-            chars[write++] = currentChar;
-
-            // If count is greater than 1, write the count
-            if (count > 1) {
-                string countStr = to_string(count);
-                for (char c : countStr) {
-                    chars[write++] = c;
+    int compress(vector<char>& chars) {
+        int a=0;
+        string s1;
+        for(int i=0; i<chars.size(); i=i+a){
+            a = counter(chars,i);
+            if(a == 1){
+                s1.push_back(chars[i]);
+            }
+            else{
+                s1.push_back(chars[i]);
+                string temp = to_string(a);
+                for (char ch : temp) {
+                    s1.push_back(ch);
                 }
             }
         }
-
-        return write;
+        for(int i=0;i<s1.length();i++){
+            chars[i]=s1[i];
+        }
+        return s1.length();
     }
 };
