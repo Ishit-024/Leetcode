@@ -24,6 +24,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ishit-024/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ishit-024/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishit-024/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/Ishit-024/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -87,6 +88,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishit-024/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Ishit-024/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Ishit-024/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Bit Manipulation
 |  |
