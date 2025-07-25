@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ishit-024/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
@@ -42,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Ishit-024/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0287-find-the-duplicate-number) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Ishit-024/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1013-fibonacci-number](https://github.com/Ishit-024/Leetcode/tree/master/1013-fibonacci-number) |
