@@ -1,58 +1,53 @@
 class Solution {
 public:
-    bool opening(char c){
-        if(c=='(' || c=='[' || c=='{'){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
-    bool closing(char c){
-        if(c==')' || c==']' || c=='}'){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
-    bool matching(char c, char d){
-        if(c=='(' && d==')' || c=='[' && d==']' || c=='{' && d=='}'){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
     bool isValid(string s) {
-        int x;
-       stack<char>st;
-       if(s.length()==1){
-        return false;
-       }
-       if(closing(s[0])){
-        return false;
-       }
-       for(int i=0;i<s.length();i++){
-            if(opening(s[i])){
+        if(s[0]==')' || s[0]=='}' || s[0]==']'){
+            return false;
+        }
+        stack<char>st;
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='(' || s[i]=='{' || s[i]=='['){
                 st.push(s[i]);
             }
-            else if(closing(s[i])==true && !st.empty()){
-                x=st.top();
-                st.pop();
-                if(matching(x,s[i])==false){
+            else{
+                if(s[i]==')' && !st.empty()){
+                    if(st.top()=='('){
+                        st.pop();
+                    }
+                    else{
+                        return false;
+                    }
+                }
+                else if(s[i]==')' && st.empty()){
+                    return false;
+                }
+                if(s[i]=='}' && !st.empty()){
+                    if(st.top()=='{'){
+                        st.pop();
+                    }
+                    else{
+                        return false;
+                    }
+                }
+                else if(s[i]=='}' && st.empty()){
+                    return false;
+                }
+                if(s[i]==']' && !st.empty()){
+                    if(st.top()=='['){
+                        st.pop();
+                    }
+                    else{
+                        return false;
+                    }
+                }
+                else if(s[i]==']' && st.empty()){
                     return false;
                 }
             }
-            else if(closing(s[i])==true && st.empty()){
-                return false;
-            }
-       }
-       if(st.empty()){
-        return true;
-       }
-       else{
+        }
+        if(st.empty()){
+            return true;
+        }
         return false;
-       }
     }
-};
+    };
