@@ -11,30 +11,42 @@
  */
 class Solution {
 public:
-bool isBalanced(TreeNode* root){
-    int a=isb(root);
-    if(a==-1){
-        return false;
-    }
-    else{
+bool leaf(TreeNode* root){
+    if(root->left==NULL && root->right==NULL){
         return true;
     }
+    return false;
 }
-    int isb(TreeNode* root) {
-        if(root==NULL){
-            return 0;
-        }
-        int x=isb(root->left);
-        if(x==-1){
-            return -1;
-        }
-        int y=isb(root->right);
-        if(y==-1){
-            return -1;
-        }
-        if(abs(x-y)>1){
-            return -1;
-        }
-        return 1+max(isb(root->left),isb(root->right));
+bool isBalanced(TreeNode* root){
+    if(root==NULL){
+        return true;
     }
+    else if(leaf(root)){
+        return true;
+    }
+    else{
+        int x=checkht(root->left);
+        int y=checkht(root->right);
+        if(abs(x-y)>1){
+            return false;
+        }
+        bool a=isBalanced(root->left);
+        bool b=isBalanced(root->right);
+        if(a==false || b==false){
+            return false;
+        }
+    }
+        return true;
+}
+int checkht(TreeNode* root){
+    if(root==NULL){
+        return 0;
+    }
+    else if(leaf(root)){
+        return 1;
+    }
+    else{
+        return 1+max(checkht(root->left),checkht(root->right));
+    }
+}
 };
