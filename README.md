@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishit-024/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Ishit-024/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0073-set-matrix-zeroes) |
@@ -116,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ishit-024/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Ishit-024/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ishit-024/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0204-count-primes) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
