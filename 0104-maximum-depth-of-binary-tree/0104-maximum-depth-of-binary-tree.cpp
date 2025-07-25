@@ -11,9 +11,18 @@
  */
 class Solution {
 public:
+    bool leaf(TreeNode* root){
+        if(root->left==NULL && root->right==NULL){
+            return true;
+        }
+        return false;
+    }
     int maxDepth(TreeNode* root) {
         if(root==NULL){
             return 0;
+        }
+        if(leaf(root)){
+            return 1;
         }
         return 1+max(maxDepth(root->left),maxDepth(root->right));
     }
