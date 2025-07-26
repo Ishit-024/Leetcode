@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishit-024/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Ishit-024/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Ishit-024/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0073-set-matrix-zeroes) |
@@ -101,6 +102,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ishit-024/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0169-majority-element) |
 ## Counting
@@ -110,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ishit-024/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ishit-024/-CrackYourPlacement-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ishit-024/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
