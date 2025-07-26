@@ -25,5 +25,6 @@ public:
         int r = max(0, solve(root->right));
         maxi = max(maxi, l + r + root->val);
         return root->val + max(l, r);
+        // return 0;
     }
 };
