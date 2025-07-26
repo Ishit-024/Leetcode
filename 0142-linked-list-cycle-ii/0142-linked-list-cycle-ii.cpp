@@ -40,6 +40,6 @@ ListNode* findLoop(ListNode* &head){
         x=x->next;
         y=y->next;
        }
-       return x;
+       return y;
     }
 };
