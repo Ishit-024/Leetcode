@@ -1,29 +1,30 @@
 class Solution {
+    int maxi = INT_MIN;
 public:
-    int maxPathSum(TreeNode* root) {
-        int maxSum = INT_MIN;
-        // Start the recursive helper function
-        helper(root, maxSum);
-        return maxSum;
+    bool leaf(TreeNode* root) {
+        if (root->left == NULL && root->right == NULL) {
+            return true;
+        }
+        return false;
     }
 
-private:
-    int helper(TreeNode* root, int& maxSum) {
+    int maxPathSum(TreeNode* root) {
+        solve(root);         // call the helper function
+        return maxi;         // return the final max path sum
+    }
+
+    int solve(TreeNode* root) {
         if (root == NULL) {
-            return 0;  // Return 0 for null nodes
+            return 0;
+        }
+        else if (leaf(root)) {
+            maxi = max(maxi, root->val);  // Update maxi in case it's the only node
+            return root->val;
         }
 
-        // Recursively calculate the max path sum for left and right subtrees
-        int left = max(helper(root->left, maxSum), 0);  // Only take positive values
-        int right = max(helper(root->right, maxSum), 0);
-
-        // Compute current path sum (node + left + right)
-        int currentPathSum = root->val + left + right;
-
-        // Update the global maxSum if we found a larger path sum
-        maxSum = max(maxSum, currentPathSum);
-
-        // Return the max path sum that includes this node
-        return root->val + max(left, right);
+        int l = max(0, solve(root->left));
+        int r = max(0, solve(root->right));
+        maxi = max(maxi, l + r + root->val);
+        return root->val + max(l, r);
     }
 };
