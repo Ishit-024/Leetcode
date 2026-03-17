@@ -363,4 +363,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ishit-024/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ishit-024/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
